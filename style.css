@@ -52,7 +52,7 @@ header ul li a:hover {
 main {
   text-align: center;
   padding: 80px 20px;
-  background: url("../img/bg.png") center/cover no-repeat;
+  background: url("../bg.png") center/cover no-repeat;
   height: 70vh;
   display: flex;
   flex-direction: column;
@@ -110,3 +110,4 @@ footer {
   from {opacity: 0;}
   to {opacity: 1;}
 }
+
